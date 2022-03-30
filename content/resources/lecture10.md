@@ -5,6 +5,7 @@ description: Lecture notes on solutions to Laplace's equation in Cartesian coord
   and boundary conditions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/7b32516fbc5ebf06f77e8f48a99da7be_lecture10.pdf
 file_type: application/pdf
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: "Lecture 10: Solutions to Laplace\u2019s Equation In Cartesian Coordinates"
 uid: 7b32516f-bc5e-bf06-f77e-8f48a99da7be

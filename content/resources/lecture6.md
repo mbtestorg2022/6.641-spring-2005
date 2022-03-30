@@ -6,6 +6,7 @@ description: "Lecture notes on magnetoquasistatics, MQS governing equations, vec
   \ solenoid, and fields of a circular cylindrical solenoid."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/e9f69db38149bdc37f47194d46e59518_lecture6.pdf
 file_type: application/pdf
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: 'Lecture 6: Magnetoquasistatics'
 uid: e9f69db3-8149-bdc3-7f47-194d46e59518

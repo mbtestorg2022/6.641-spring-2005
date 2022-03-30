@@ -8,6 +8,7 @@ description: Lecture notes on fields and moving media, Galilean time and space t
   machines.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/de5a9c95fd71bb9ed5b9eb4c0def3ec1_lecture14.pdf
 file_type: application/pdf
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: 'Lecture 14: Fields and Moving Media'
 uid: de5a9c95-fd71-bb9e-d5b9-eb4c0def3ec1

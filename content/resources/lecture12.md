@@ -5,6 +5,7 @@ description: Lecture notes on electroquasistatic forces, the EQS energy method o
   and physical model of forces on dielectrics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/3fd8f83e7b5e9a67af4969cd790bd222_lecture12.pdf
 file_type: application/pdf
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: 'Lecture 12: Electroquasistatic Forces'
 uid: 3fd8f83e-7b5e-9a67-af49-69cd790bd222
